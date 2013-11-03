@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Fundraising
+title: Boston
 published: true
 ---
