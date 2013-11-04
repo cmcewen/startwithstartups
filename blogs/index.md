@@ -1,9 +1,8 @@
 ---
 layout: default
-title: blogs
+title: Blogs
 published: true
 ---
-
 
 ## Blogs
 
