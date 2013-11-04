@@ -52,45 +52,17 @@
     <div class="wrapper">
       <header>
         <h1><a href="/">Start With Startups</a></h1>
-        <!-- <p>Where's Corey now?</p> -->
-
-        <!-- <h3>The Goods</h3> -->
-        <p class="view"><a href="/projects.html">Open Source Projects<small>Code that Might be Useful to You</small></a></p>
-        <p class="view"><a href="/speaking.html">Talks I've Given<small>On Technologies and Ideas</small></a></p>
-
-        {% if page.repository_url %}
-          <h3>Project Info</h3>
-          <ul>
-            {% if page.zip_url %}
-              <li><a href="{{ page.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            {% endif %}
-            {% if page.tar_url %}
-              <li><a href="{{ page.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            {% endif %}
-            {% if page.gem_url %}
-              <li><a href="{{ page.gem_url }}">Download <strong>Rubygem</strong></a></li>
-            {% endif %}
-            {% if page.issue_url %}
-              <li><a href="{{ page.issue_url }}">Report<strong>An Issue</strong></a></li>
-            {% endif %}
-            {% if page.repository_url %}
-              <li><a href="{{ page.repository_url }}">Fork On <strong>GitHub</strong></a></li>
-            {% endif %}
-          </ul>
-        {% endif %}
-
-        <h3>Follow Me On</h3>
-        <p class="view"><a href="https://github.com/atmos" target="tab">GitHub<small>If coding is your thing</small></a></li>
-        <p class="view"><a href="https://twitter.com/atmos" target="tab">Twitter<small>If you tweet</small></a></li>
-        <p class="view"><a href="http://tumblr.atmos.org" target="tab">Tumblr<small>If you're ADD</small></a></li>
-        <p class="view"><a href="http://flickr.com/photos/atmos" target="tab">Flickr<small>If you like photos</small></a></li>
-
+        <p class="view"><a href="/fundraising">Fundraising</a></p>
+        <p class="view"><a href="/internships">Internships</a></p>
+        <p class="view"><a href="/build-skills">Build Skills</a></p>
+        <p class="view"><a href="/schools">Startups at Schools</a></p>
+        <p class="view"><a href="/stay-informed">Stay Informed</a></p>
+        <p class="view"><a href="/boston">Boston</a></p>
       </header>
       <section id="main">
         {{ content }}
       </section>
       <footer>
-        <!-- <p>This is the site of Corey Donohoe</p> -->
         <p><small>Hosted on <a href="http://pages.github.com">GitHub Pages</a> &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
@@ -102,7 +74,7 @@
         t.type  = 'text/javascript';
         t.async = true;
         t.id    = 'gauges-tracker';
-        t.setAttribute('data-site-id', '4eb74c9f613f5d3567000004');
+        t.setAttribute('data-site-id', '');
         t.src = '//secure.gaug.es/track.js';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(t, s);
