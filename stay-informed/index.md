@@ -6,6 +6,8 @@ published: true
 
 ## Stay informed 
  
+[Hacker News](http://news.ycombinator.com)
+
 [VentureFizz](http://venturefizz.com)
  
 [Hive: Boston Globe](http://boston.com/hive)
@@ -19,7 +21,5 @@ published: true
 [Tech Crunch](http://techcrunch.com)
  
 [NY Times Bits Tech Blog](http://bits.blogs.nytimes.com/)
- 
-[Hacker News](http://news.ycombinator.com)
  
 [USV Community](http://usv.com)
