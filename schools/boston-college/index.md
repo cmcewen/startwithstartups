@@ -4,6 +4,12 @@ title: "/schools/boston-college/index.md"
 published: true
 ---
 
+---
+layout: default
+title: Boston College
+published: true
+---
+
 ### Boston College
  
 [Boston College Venture Competition ](http://bcvc.org/)
