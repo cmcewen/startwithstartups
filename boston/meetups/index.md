@@ -1,3 +1,8 @@
+---
+layout: default
+title: Boston meetups
+published: true
+---
 ### Meetups:
 
 [Boston Ruby](http://bostonrb.org/) 
