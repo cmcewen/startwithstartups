@@ -1,8 +1,9 @@
 ---
 layout: default
-title: MIT
+title: /schools/MIT/index.md
 published: true
 ---
+
 ### MIT 
 
 [StartLabs](http://startlabs.org/)
