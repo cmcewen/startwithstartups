@@ -3,7 +3,7 @@ layout: default
 title: Contribute
 published: true
 ---
-## Contribute
+### Contribute
  
 built by [emma tangoren](http://emmatangoren.com) and [connor mcewen](http://connormcewen.com)
  
