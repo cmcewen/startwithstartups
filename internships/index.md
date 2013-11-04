@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fundraising
+title: Internships
 published: true
 ---
 
@@ -15,4 +15,3 @@ Helpful links for landing internships at startups for both technical and non-tec
 [Emma Tangoren: How to Land a Job at a Startup For Students](http://www.slideshare.net/emmatangerine/how-to-land-a-job-at-a-startup-for-students)
  
 [Join-Startups](http://join-startups.com/)
- 
