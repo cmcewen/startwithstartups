@@ -1,9 +1,8 @@
 ---
 layout: default
-title: blogs
+title: Local Classes
 published: true
 ---
-
 
 ### Local Classes:
 
