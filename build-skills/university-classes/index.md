@@ -1,6 +1,6 @@
 ---
 layout: default
-title: blogs
+title: University Classes
 published: true
 ---
 
