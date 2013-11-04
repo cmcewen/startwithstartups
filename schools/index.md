@@ -6,7 +6,7 @@ published: true
 
 [Boston University](/schools/boston-unversity)
 [Boston College](/schools/boston-college)
-[Harvard University](/schools/harvard-unversity)
+[Harvard](/schools/harvard)
 [MIT](/schools/MIT)
 [Olin College](/schools/olin)
 [Northeastern University](/schools/northeastern)
