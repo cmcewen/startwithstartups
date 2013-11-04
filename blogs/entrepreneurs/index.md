@@ -1,6 +1,6 @@
 ---
 layout: default
-title: entrepreneur blogs
+title: Entrepreneur Blogs
 published: true
 ---
 
