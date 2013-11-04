@@ -1,11 +1,5 @@
 ---
 layout: default
-title: "/schools/boston-college/index.md"
-published: true
----
-
----
-layout: default
 title: Boston College
 published: true
 ---
