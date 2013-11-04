@@ -4,7 +4,7 @@ title: schools
 published: true
 ---
 
-[Boston University](/schools/boston-unversity)
+[Boston University](/schools/boston-university)
 
 [Boston College](/schools/boston-college)
 
@@ -20,7 +20,7 @@ published: true
 
 [MIT Sloan](/schools/mit-sloan)
 
-[Tufts University](/schools/tufts-unversity)
+[Tufts University](/schools/tufts-university)
 
 [Babson College](/schools/babson)
 
