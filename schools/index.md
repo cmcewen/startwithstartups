@@ -12,7 +12,7 @@ published: true
 
 [Harvard](/schools/harvard)
 
-[MIT](/schools/MIT)
+[MIT](/schools/mit)
 
 [Olin College](/schools/olin)
 
