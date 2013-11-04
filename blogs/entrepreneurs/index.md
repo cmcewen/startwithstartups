@@ -4,7 +4,7 @@ title: Entrepreneur Blogs
 published: true
 ---
 
-### Entrepreneurs
+### Entrepreneur Blogs
 
 
 [Christina Cappocio: Kidogo](http://christinacacioppo.com/blog)
