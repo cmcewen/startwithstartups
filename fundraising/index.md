@@ -4,6 +4,8 @@ title: Fundraising
 published: true
 ---
 
+###Fundraising
+
 Curious about how fundraising works? Here are some helpful links on raising money, understanding term sheets, and working with investors. 
  
 [A VC: Convertible Debt](http://www.avc.com/a_vc/2011/07/financing-options-convertible-debt.html)
