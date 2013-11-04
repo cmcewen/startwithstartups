@@ -1,6 +1,6 @@
 ---
 layout: default
-title: blogs
+title: VC Blogs
 published: true
 ---
 
@@ -40,4 +40,4 @@ published: true
 
 [Crunchbase](http://www.crunchbase.com/)
 
-[Angel List](https://angel.co/) 
+[Angel List](https://angel.co/)
