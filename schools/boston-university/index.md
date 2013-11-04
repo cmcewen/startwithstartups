@@ -4,11 +4,6 @@ title: "/boston-university/index.md"
 published: true
 ---
 
----
-layout: default
-title: Boston University
-published: true
----
 ### Boston University
  
 [BU Startups](http://bustartups.com)
@@ -20,4 +15,3 @@ published: true
 [BUILDS](http://builds.cc/)
 
 [WICS BU](https://sites.google.com/site/womencsbu/)
- 
