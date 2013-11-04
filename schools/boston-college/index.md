@@ -1,9 +1,17 @@
 ---
 layout: default
-title: blogs
+title: "/schools/boston-college/index.md"
 published: true
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+---
+layout: default
+title: boston college
+published: true
+---
+### Boston College
+ 
+[Boston College Venture Competition ](http://bcvc.org/)
+ 
+[Boston College Entrepreneur Society](http://bc.orgsync.com/org/entrepreneursociety42148/About)
+ 
