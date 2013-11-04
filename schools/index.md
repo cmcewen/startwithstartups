@@ -1,6 +1,6 @@
 ---
 layout: default
-title: schools
+title: /schools/index.md
 published: true
 ---
 
