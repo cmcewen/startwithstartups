@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fundraising
+title: Build Skills
 published: true
 ---
 
