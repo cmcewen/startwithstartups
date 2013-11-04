@@ -1,3 +1,9 @@
+---
+layout: default
+title: blogs
+published: true
+---
+
 ### University Classes:
  
 [Entrepreneurial Design](https://docs.google.com/document/d/1NtdFOaccPwq1Ja4x5xMwgBpla26uALk7U7jiSW-o6G0/edit)

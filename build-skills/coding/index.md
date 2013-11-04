@@ -1,3 +1,9 @@
+---
+layout: default
+title: blogs
+published: true
+---
+
 [GA Dash](https://dash.generalassemb.ly)
 
 [Codecademy](http://codecademy.com)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: blogs
+published: true
+---
+
 ### Online Tools:
 
 [Coursera](https://www.coursera.org/) 
