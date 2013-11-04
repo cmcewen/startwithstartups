@@ -1,10 +1,10 @@
 ---
 layout: default
-title: friends and family blogs
+title: Friends and Family Blogs
 published: true
 ---
 
-Friends and Family
+###Friends and Family
 
 [Kim Pham](http://kimberlytpham.tumblr.com/)
 
