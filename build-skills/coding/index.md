@@ -1,8 +1,10 @@
 ---
 layout: default
-title: blogs
+title: Coding
 published: true
 ---
+
+###Coding
 
 [GA Dash](https://dash.generalassemb.ly)
 
