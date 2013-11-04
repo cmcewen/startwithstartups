@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fundraising
+title: Stay Informed
 published: true
 ---
 
@@ -23,4 +23,3 @@ published: true
 [Hacker News](http://news.ycombinator.com)
  
 [USV Community](http://usv.com)
- 
