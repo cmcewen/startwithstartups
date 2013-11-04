@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Boston University
+title: "/boston-university/index.md"
 published: true
 ---
 
