@@ -1,14 +1,9 @@
 ---
 layout: default
-title: entrepreneur blogs
+title: Harvard
 published: true
 ---
 
----
-layout: default
-title: harvard
-published: true
----
 ### Harvard University
 
 [HackHarvard](http://www.hackharvard.org/)
