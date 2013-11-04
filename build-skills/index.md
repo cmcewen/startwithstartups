@@ -4,4 +4,10 @@ title: Fundraising
 published: true
 ---
 
-This is a page about fundraising
+Here are some resources to build startup skills
+
+[Coding](/build-skills/coding)
+
+[Online tools](/build-skills/online-tools)
+
+[University Classes](/build-skills/university-classes)
