@@ -4,8 +4,7 @@ title: Boston
 published: true
 ---
 
-
-###Boston
+##Boston
 
 [Meetups](/boston/meetups)
 
