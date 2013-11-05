@@ -12,7 +12,7 @@ Here are some blogs from VC’s and founders. They are a good place to learn abo
 
 [VCs](/blogs#vcs)
 
-[Friends and Family](/blogs#friends)
+[Friends and Family](/blogs#friendsandfamily)
 
 ### Entrepreneurs
 
