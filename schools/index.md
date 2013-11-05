@@ -4,7 +4,7 @@ title: Schools
 published: true
 ---
 
-###Schools
+##Schools
 
 [Boston University](/schools/boston-university)
 
