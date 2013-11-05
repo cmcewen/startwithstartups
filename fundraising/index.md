@@ -4,7 +4,7 @@ title: Fundraising
 published: true
 ---
 
-###Fundraising
+##Fundraising
 
 Curious about how fundraising works? Here are some helpful links on raising money, understanding term sheets, and working with investors. 
  
