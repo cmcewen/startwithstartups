@@ -68,7 +68,7 @@ Here are some blogs from VC’s and founders. They are a good place to learn abo
 
 [Brad Feld](http://www.feld.com/wp/)
 
-### Friends and Family
+<h3 id="friends">Friends and Family</h3>
  
 [Kim Pham](http://kimberlytpham.tumblr.com/)
  
