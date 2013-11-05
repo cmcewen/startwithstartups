@@ -8,7 +8,13 @@ published: true
 
 Here are some blogs from VC’s and founders. They are a good place to learn about about best practices, new trends, and other insights. Here are a few of our favorites to help jumpstart your interests.
 
-### Entrepreneur Blogs
+[Entrepreneurs](/blogs#entrepreneurs)
+
+[VCs](/blogs#vcs)
+
+[Friends and Family](/blogs#friends)
+
+### Entrepreneurs
 
 [Christina Cappocio: Kidogo](http://christinacacioppo.com/blog)
 
@@ -34,7 +40,7 @@ Here are some blogs from VC’s and founders. They are a good place to learn abo
 
 [Francis Pedraza: Everest ](http://francispedraza.com/)
 
-### VC’s
+### VCs
 
 [Fred Wilson- A VC](http://avc.com)
 
