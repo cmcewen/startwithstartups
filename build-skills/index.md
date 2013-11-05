@@ -4,6 +4,8 @@ title: Build Skills
 published: true
 ---
 
+## Build Skills
+
 Here are some resources to build startup skills
 
 [Coding](/build-skills/coding)
