@@ -4,7 +4,7 @@ title: Build Skills
 published: true
 ---
 
-## Build Skills
+### Build Skills
 
 Here are some resources to build startup skills
 
