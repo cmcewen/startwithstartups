@@ -19,3 +19,5 @@ Curious about how fundraising works? Here are some helpful links on raising mone
 [Term Sheet Calculator](http://www.foundersfund.com/termsheet/)
  
 [Bloomberg Beta Manual](https://github.com/Bloomberg-Beta/Manual)
+
+[The Capital Network](http://www.thecapitalnetwork.org/) - holds events to provide financial education to early stage entrepreneurs.

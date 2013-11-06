@@ -17,3 +17,5 @@ Helpful links for landing internships at startups for both technical and non-tec
 [Peter Boyce: How to Land an Internship at a Startup] (http://www.slideshare.net/jeebus326/skillshare-how-to-land-an-internship-at-a-startup) 
 
 [Join-Startups](http://join-startups.com/)
+
+[BostInno Internship Hub](http://bostinno.streetwise.co/internships/)
