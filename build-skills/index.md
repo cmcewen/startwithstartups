@@ -28,6 +28,8 @@ Here are some resources to build startup skills
 
 [Khan Academy](https://www.khanacademy.org/)
 
+[Thoughtbot Learn](https://learn.thoughtbot.com/trails)
+
 [EdX](https://www.edx.org/)
 
 [No Excuse List of Learning](http://www.noexcuselist.com/everything)
