@@ -12,7 +12,7 @@ A few local resources for those lucky enough to live in Boston
 
 ### Meetups
 
-[Boston Ruby](http://bostonrb.org/) 
+[Boston Ruby](http://bostonrb.org/)
 
 [Boston Hardware Meetup](http://www.meetup.com/Boston-Hardware-Startup-Meetup/)
 
@@ -27,6 +27,8 @@ A few local resources for those lucky enough to live in Boston
 [GA Boston](https://generalassemb.ly/boston)
 
 [Startup Institute](http://startupinstitute.com/boston)
+
+[Rails Bridge Boston](http://www.railsbridgeboston.org/)
 
 ### Info
  
