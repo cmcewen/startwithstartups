@@ -8,7 +8,7 @@ published: true
 
 A few local resources for those lucky enough to live in Boston
 
-[Meetups](/boston#meetups) | [Local Classes](/boston#local) | [Info](/boston#info)
+[Meetups](/boston#meetups) | [Local Classes](/boston#local) | [Info](/boston#info) | [Other](/boston#other) 
 
 ### Meetups
 
@@ -43,3 +43,7 @@ A few local resources for those lucky enough to live in Boston
 [Greenhorn Connect](http://greenhornconnect.com/)
  
 [Stay in MA Scholarships](http://www.stayinma.com/home)
+
+### Other
+
+[Awesome Boston](http://awesomeboston.org/) - List of speakers willing to come to college campuses
